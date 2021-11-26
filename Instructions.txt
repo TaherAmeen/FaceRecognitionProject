@@ -1,0 +1,4 @@
+-install python 3.6 64bit version (not 3.5 not 3.7 and not 32bit)
+-open consol and pip install tensorflow (or tensorflow-gpu if you have Nvedia GPU)
+-when training, put the faces images in the faces folder each face group in a sub-folder by it self
+-first time you run the scripts you will find a lot of "No module found" errors, all you need to do is to pip install every missing module(library) required and every thing may be ok
